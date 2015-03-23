@@ -1,2 +1,2 @@
 # temp
-Temporary repo for testing and so on
+Temporary repo for testing
