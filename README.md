@@ -1,2 +1,2 @@
 # temp
-Temporary repo for testing
+Temporary repo for testing using VS Code
