@@ -51,8 +51,10 @@ True   True   True
 .. code:: python
 
   def my_function():
-      "just a test"
-      print 8/2
+      fruits = ['Apple', 'Banana', 'Strawberry']
+      for fruit in fruits:
+          first_letters += fruit[0]
+      return first_letters
       
 .. code:: sql
 
